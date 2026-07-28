@@ -250,5 +250,5 @@ Planned enhancements for future versions:
 ══════════════════════════════════════════════════════════════
   Built by Saira Sehar — CloudExify Internship 2026
   GitHub: https://github.com/Saira-Sehar
-  LinkedIn: https://www.linkedin.com/in/saira-sehar-6b474b205
+  LinkedIn: https://www.linkedin.com/in/saira-sehar
 ══════════════════════════════════════════════════════════════
