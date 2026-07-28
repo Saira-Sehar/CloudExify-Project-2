@@ -34,7 +34,7 @@ Drop Name:     Drop 003 — Winter Collection
 LIVE DEMO
 ────────────────────────────────────────────────────────────
 
-Visit the live site: https://dropx-store.vercel.app
+Visit the live site: https://github.com/Saira-Sehar/CloudExify-Project-2/
 
 
 
