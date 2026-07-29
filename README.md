@@ -34,7 +34,7 @@ Drop Name:     Drop 003 — Winter Collection
 LIVE DEMO
 ────────────────────────────────────────────────────────────
 
-Visit the live site: (https://saira-sehar.github.io/CloudExify-Project-2/)
+Visit the live site: https://cloudexify-project-2-xi.vercel.app/
 
 
 
@@ -127,15 +127,14 @@ cloudexify-web-p2-saira/
 │   ├── data.js             Product catalog (10 items, 3 categories)
 │   └── script.js           Application logic and interactivity
 │
-├── assets/
-│   └── images/             Product images and assets
+├── README.md               Project documentation (this file)
 │
 ├── screenshots/
 │   ├── desktop.png         Full desktop view capture
 │   └── mobile.png          Mobile responsive view capture
 │
 ├── vercel.json             Vercel deployment configuration
-└── README.md               Project documentation (this file)
+└── Report.docs 
 
 
 
@@ -198,17 +197,6 @@ Empty cart cannot submit order               PASSED
 Responsive on mobile width                   PASSED
 Responsive on tablet width                   PASSED
 No JavaScript console errors                 PASSED
-
-
-
-SCREENSHOTS
-────────────────────────────────────────────────────────────
-
-Desktop View:
-screenshots/desktop.png
-
-Mobile View:
-screenshots/mobile.png
 
 
 
